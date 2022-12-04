@@ -1,7 +1,13 @@
 .logo {
-  width: 3em;
-  height: 3em;
+  width: 2em;
+  height: 2em;
 }
-.navbar-toggler {
-  position: end;
+.image-header {
+  background-size: cover;
+  max-height: auto;
+
+  width: 100%;
+  background-size: 100% 100%;
+
+  background-repeat: no-repeat;
 }
