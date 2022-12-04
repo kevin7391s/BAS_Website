@@ -2,3 +2,6 @@
   width: 3em;
   height: 3em;
 }
+.navbar-toggler {
+  position: end;
+}
