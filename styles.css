@@ -61,3 +61,15 @@ body {
 p {
   font-size: larger;
 }
+
+/*general page text*/
+.pagetext {
+  padding-left: 5%;
+  margin-top: 2em;
+  margin-bottom: 10em;
+}
+
+/*contact*/
+.elink {
+  color: #c46c2a;
+}
