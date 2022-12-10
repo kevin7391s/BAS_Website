@@ -34,7 +34,7 @@ body {
 
 /* Home page css properties */
 .vertical {
-  border-left: 15px solid #c46c2a;
+  border-left: 10px solid #30323c;
   height: 90px;
   position: absolute;
   left: 5%;
@@ -44,6 +44,9 @@ body {
   font-size: x-large;
   font-family: "Crimson Text", serif;
   padding-right: 10px;
+}
+.verticaltext {
+  color: #c46c2a;
 }
 .hometext {
   padding-left: 5%;
