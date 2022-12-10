@@ -31,3 +31,19 @@ body {
   color: white;
   font-size: small;
 }
+
+/* Home page css properties */
+.vertical {
+  border-left: 10px solid #c46c2a;
+  height: 100px;
+  position: absolute;
+  left: 5%;
+  margin-left: -3px;
+  padding-left: 10px;
+  font-family: "Nunito", sans-serif;
+}
+
+.verticalText {
+  padding-left: 1px;
+  font-family: "Nunito", sans-serif;
+}
