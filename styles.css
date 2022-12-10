@@ -20,12 +20,12 @@ body {
   max-height: auto;
   background-size: 100% 100%;
   width: 100%;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   background-repeat: no-repeat;
 }
 .footer-text {
-  position: absolute;
+  position: fixed;
   bottom: 8px;
   left: 16px;
   color: white;
@@ -50,5 +50,14 @@ body {
 }
 .hometext {
   padding-left: 5%;
-  margin-top: 7em;
+  margin-top: 9em;
+  margin-bottom: 10em;
+}
+.adimage {
+  background-size: cover;
+  max-height: auto;
+  width: 80%;
+}
+p {
+  font-size: larger;
 }
