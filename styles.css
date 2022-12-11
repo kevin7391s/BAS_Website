@@ -76,3 +76,18 @@ p {
 .formtext {
   font-size: medium;
 }
+.rexperttext {
+  color: #c46c2a;
+  font-size: x-large;
+  font-family: "Crimson Text", serif;
+  padding-left: 5%;
+  margin-top: 2em;
+
+  text-decoration: underline;
+}
+
+.normaltext {
+  font-size: large;
+  padding-left: 5%;
+  padding-right: 5%;
+}
