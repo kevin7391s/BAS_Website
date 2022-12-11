@@ -105,3 +105,23 @@ p {
   margin-top: 2em;
   margin-bottom: 20em;
 }
+
+.headerfont {
+  color: #c46c2a;
+  font-size: x-large;
+  font-family: "Crimson Text", serif;
+  text-decoration: underline;
+  margin-top: 2em;
+  padding-left: 5%;
+}
+.serviceheadings {
+  color: #c46c2a;
+  font-size: larges;
+  font-family: "Crimson Text", serif;
+  padding-left: 5%;
+}
+.servicetext {
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: medium;
+}
